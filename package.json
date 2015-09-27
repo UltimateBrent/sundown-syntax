@@ -1,0 +1,16 @@
+{
+  "name": "sundown-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A slightly different take on the Twilight theme.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "twilight"
+  ],
+  "repository": "https://github.com/ultimatebrent/sundown-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
