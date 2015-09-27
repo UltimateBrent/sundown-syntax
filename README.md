@@ -1,5 +1,5 @@
 # sundown-syntax theme
 
-A short description of your theme.
+A slightly different version of the Twilight syntax theme.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Sundown Theme](https://cloud.githubusercontent.com/assets/1173624/10124548/9f4f1fda-6525-11e5-933e-b32d8bbb34f3.png)
